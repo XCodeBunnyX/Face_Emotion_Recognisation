@@ -32,7 +32,7 @@ A lightweight and powerful computer vision application built with **OpenCV** and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Face_Emotion_Recognisation.git
+git clone https://github.com/XCodeBunnyX/Face_Emotion_Recognisation.git
 cd Face_Emotion_Recognisation
 ```
 
